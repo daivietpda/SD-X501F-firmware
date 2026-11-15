@@ -1,0 +1,58 @@
+{
+  "boot_a": {
+    "bytes": 33554432,
+    "sha256": "0a7cc5b85714d1c1382efa9dc17a1d4d7a753ca22f36df03711c488c9dd4959e"
+  },
+  "system_a": {
+    "bytes": 536870912,
+    "sha256": "340e38b84389835cef642dc4bbb2e625b736af1ddf53d42aaac8c1896826af37"
+  },
+  "vendor_a": {
+    "bytes": 134217728,
+    "sha256": "e9beb65dcdb4aada5788d5d6783d2427b815eec7ac548371e35310e87e162510"
+  },
+  "vbmeta_a": {
+    "bytes": 65536,
+    "sha256": "e5e86c244e87132ec20f7cfdad108790eba0656384eba5bde501ecd4e49acbd6"
+  },
+  "modem_a": {
+    "bytes": 33554432,
+    "sha256": "fe440e0f390775f729e1383161fef994a2bd32b23c8f954b800e9defd359f165"
+  },
+  "bluetooth_a": {
+    "bytes": 524288,
+    "sha256": "9c1db420ffcdb92658c41e5279869f4355df861ba21ac68a9010aaee3599e601"
+  },
+  "dsp_a": {
+    "bytes": 16777216,
+    "sha256": "f4a0be81e2e5743fd94f51258afeab72240ea7464ccfa7cac982511b58cfb3c5"
+  },
+  "oem_a": {
+    "bytes": 524288000,
+    "sha256": "6d1907ab5da73cac282b9b04ad83559a2acabeebf0fa2d268ba9db8f71af4958"
+  },
+  "aboot_a": {
+    "bytes": 1048576,
+    "sha256": "404f94d7e81201df639280cc3b627aa7987da0ce5520a82ee6971e9d3b9677b2"
+  },
+  "cmnlib_a": {
+    "bytes": 1048576,
+    "sha256": "2866943b8ce9ee9e28e0725c7d1d165152ab0f2e772b40f76d090d1f64959646"
+  },
+  "devcfg_a": {
+    "bytes": 262144,
+    "sha256": "43f7015f0395fb1618a0bc27e4707b466a422d94649bb8d9b5f8122a9415e294"
+  },
+  "rpm_a": {
+    "bytes": 524288,
+    "sha256": "19e58db79fbf176a8a069b04e5d33443f5615f99c8f58c55a48d6a51d04f24da"
+  },
+  "sbl1_a": {
+    "bytes": 524288,
+    "sha256": "bf7101b58af5a5db4864ee58320c89395de16890b49f21ee8601cc06213daa8b"
+  },
+  "tz_a": {
+    "bytes": 2097152,
+    "sha256": "522343acd1229da8abfa130f7a7276bf5998a8d4a01c2a28b2ae6e4454b9ab10"
+  }
+}
